@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.48, created on 2025-07-07 17:16:38
+/* Smarty version 3.1.48, created on 2025-07-07 18:38:35
   from '/var/www/html/prestashop1.7/admin3316paect/themes/new-theme/template/components/layout/warning_messages.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.48',
-  'unifunc' => 'content_686bb39e071bb9_75369494',
+  'unifunc' => 'content_686bc6d393cda7_14910879',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_686bb39e071bb9_75369494 (Smarty_Internal_Template $_smarty_tpl) {
+function content_686bc6d393cda7_14910879 (Smarty_Internal_Template $_smarty_tpl) {
 if (count($_smarty_tpl->tpl_vars['warnings']->value)) {?>
   <div class="bootstrap">
     <div class="alert alert-warning">

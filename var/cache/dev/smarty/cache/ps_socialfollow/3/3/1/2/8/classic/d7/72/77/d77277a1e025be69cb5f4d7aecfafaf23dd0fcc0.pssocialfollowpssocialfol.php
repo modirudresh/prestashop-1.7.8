@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.48, created on 2025-07-07 17:29:21
+/* Smarty version 3.1.48, created on 2025-07-07 18:54:56
   from 'module:pssocialfollowpssocialfol' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.48',
-  'unifunc' => 'content_686bb69957d694_12755124',
+  'unifunc' => 'content_686bcaa8ed6f37_68958748',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -18,13 +18,13 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   ),
   'cache_lifetime' => 31536000,
 ),true)) {
-function content_686bb69957d694_12755124 (Smarty_Internal_Template $_smarty_tpl) {
+function content_686bcaa8ed6f37_68958748 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->smarty->ext->_tplFunction->registerTplFunctions($_smarty_tpl, array (
   'renderLogo' => 
   array (
     'compiled_filepath' => '/var/www/html/prestashop1.7/var/cache/dev/smarty/compile/classiclayouts_layout_full_width_tpl/06/6a/78/066a786fd79abbb1a925157a9f8b8ae1e4702adc_2.file.helpers.tpl.php',
     'uid' => '066a786fd79abbb1a925157a9f8b8ae1e4702adc',
-    'call_name' => 'smarty_template_function_renderLogo_1815717947686bb3a2a21ab5_79897794',
+    'call_name' => 'smarty_template_function_renderLogo_1128688870686bcaa8e31fc7_08268917',
   ),
 ));
 ?><!-- begin /var/www/html/prestashop1.7/themes/classic/modules/ps_socialfollow/ps_socialfollow.tpl -->

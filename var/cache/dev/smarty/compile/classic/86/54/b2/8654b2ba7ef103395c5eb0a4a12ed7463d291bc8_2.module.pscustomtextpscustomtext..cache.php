@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.48, created on 2025-07-07 17:16:42
+/* Smarty version 3.1.48, created on 2025-07-07 18:54:56
   from 'module:pscustomtextpscustomtext.' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.48',
-  'unifunc' => 'content_686bb3a277c1c1_03357758',
+  'unifunc' => 'content_686bcaa8df5a20_68955622',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,8 +20,8 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_686bb3a277c1c1_03357758 (Smarty_Internal_Template $_smarty_tpl) {
-$_smarty_tpl->compiled->nocache_hash = '347457773686bb3a277aec4_67356515';
+function content_686bcaa8df5a20_68955622 (Smarty_Internal_Template $_smarty_tpl) {
+$_smarty_tpl->compiled->nocache_hash = '2018656568686bcaa8df46d1_14723134';
 ?>
 <!-- begin /var/www/html/prestashop1.7/modules/ps_customtext/ps_customtext.tpl -->
 <div id="custom-text">

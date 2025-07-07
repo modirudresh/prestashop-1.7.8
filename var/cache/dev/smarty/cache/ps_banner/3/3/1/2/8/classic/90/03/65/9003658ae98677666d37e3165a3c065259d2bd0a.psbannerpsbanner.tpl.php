@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.48, created on 2025-07-07 17:29:23
+/* Smarty version 3.1.48, created on 2025-07-07 18:54:56
   from 'module:psbannerpsbanner.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.48',
-  'unifunc' => 'content_686bb69b261280_96846584',
+  'unifunc' => 'content_686bcaa8dd0f12_14600235',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -18,7 +18,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   ),
   'cache_lifetime' => 31536000,
 ),true)) {
-function content_686bb69b261280_96846584 (Smarty_Internal_Template $_smarty_tpl) {
+function content_686bcaa8dd0f12_14600235 (Smarty_Internal_Template $_smarty_tpl) {
 ?><!-- begin /var/www/html/prestashop1.7/themes/classic/modules/ps_banner/ps_banner.tpl --><a class="banner" href="http://localhost/prestashop1.7/en/" title="">
       <img src="http://localhost/prestashop1.7/modules/ps_banner/img/sale70.png" alt="" title="" class="img-fluid" loading="lazy" width="1110" height="213">
   </a>

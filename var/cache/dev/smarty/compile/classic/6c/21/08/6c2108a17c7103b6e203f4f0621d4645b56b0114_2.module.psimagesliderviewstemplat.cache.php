@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.48, created on 2025-07-07 18:54:56
+/* Smarty version 3.1.48, created on 2025-07-09 19:08:36
   from 'module:psimagesliderviewstemplat' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.48',
-  'unifunc' => 'content_686bcaa8b010f9_21362510',
+  'unifunc' => 'content_686e70dc2caba4_77171736',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,8 +20,8 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_686bcaa8b010f9_21362510 (Smarty_Internal_Template $_smarty_tpl) {
-$_smarty_tpl->compiled->nocache_hash = '1388939989686bcaa8af06c5_94222250';
+function content_686e70dc2caba4_77171736 (Smarty_Internal_Template $_smarty_tpl) {
+$_smarty_tpl->compiled->nocache_hash = '1707444178686e70dc2bc8a1_28836302';
 ?>
 <!-- begin /var/www/html/prestashop1.7/themes/classic/modules/ps_imageslider/views/templates/hook/slider.tpl -->
 <?php if ($_smarty_tpl->tpl_vars['homeslider']->value['slides']) {?>

@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.48, created on 2025-07-07 18:54:56
+/* Smarty version 3.1.48, created on 2025-07-09 19:08:36
   from 'module:productcommentsviewstempl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.48',
-  'unifunc' => 'content_686bcaa8d1eb95_93613531',
+  'unifunc' => 'content_686e70dc4f7ef4_48245749',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'e9e4d0b935584380ea8beb3f467908e1cd2486f5' => 
     array (
       0 => 'module:productcommentsviewstempl',
-      1 => 1751869318,
+      1 => 1752059879,
       2 => 'module',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_686bcaa8d1eb95_93613531 (Smarty_Internal_Template $_smarty_tpl) {
+function content_686e70dc4f7ef4_48245749 (Smarty_Internal_Template $_smarty_tpl) {
 ?><!-- begin /var/www/html/prestashop1.7/modules/productcomments/views/templates/hook/product-list-reviews.tpl -->
 
 <div class="product-list-reviews" data-id="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['product']->value['id'], ENT_QUOTES, 'UTF-8');?>

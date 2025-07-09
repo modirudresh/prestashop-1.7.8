@@ -2569,7 +2569,7 @@
   ),
   'Order' => 
   array (
-    'path' => '',
+    'path' => 'override/classes/order/Order.php',
     'type' => 'class',
     'override' => false,
   ),
@@ -3175,7 +3175,7 @@
   ),
   'ProductListingFrontController' => 
   array (
-    'path' => '',
+    'path' => 'override/classes/controller/ProductListingFrontController.php',
     'type' => 'abstract class',
     'override' => false,
   ),

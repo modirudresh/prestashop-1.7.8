@@ -21,5 +21,7 @@
     'cookie_key' => 'htFBM37tkJsBoBtpLXePQ5PtVCFYm6a95fFh6C1fHqCUbkWSMwfBvVdkm4pWRDgB',
     'cookie_iv' => 'u7psqzfaKgDxnWSUsZJ9hYbfaGwYkRTz',
     'new_cookie_key' => 'def000004de8ed0d57532a45243365809c9b2d559fa10e38008c3953d8a2ffcdabde45c0370db7194f3ee3e6730a74c6efe37031d91da592ad8df5df22595e89e51ddc1b',
+    'domain' => 'demo-store.com',
+    'domain_ssl' => 'demo-store.com',
   ),
 );

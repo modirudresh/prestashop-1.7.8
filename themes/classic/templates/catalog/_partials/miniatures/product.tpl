@@ -113,7 +113,7 @@
       </div>
 
       {include file='catalog/_partials/product-flags.tpl'}
-    </div>
+    {hook h='displayATCButton'}</div>
   </article>
 </div>
 {/block}

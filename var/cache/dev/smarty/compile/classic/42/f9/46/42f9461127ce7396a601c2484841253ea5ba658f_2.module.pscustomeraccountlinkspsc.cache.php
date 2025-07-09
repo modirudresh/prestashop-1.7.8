@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.48, created on 2025-07-07 18:54:51
+/* Smarty version 3.1.48, created on 2025-07-09 19:08:36
   from 'module:pscustomeraccountlinkspsc' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.48',
-  'unifunc' => 'content_686bcaa32ce1c7_53862689',
+  'unifunc' => 'content_686e70dcc45331_49483796',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,8 +20,8 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_686bcaa32ce1c7_53862689 (Smarty_Internal_Template $_smarty_tpl) {
-$_smarty_tpl->compiled->nocache_hash = '644703318686bcaa32ca1f7_48773985';
+function content_686e70dcc45331_49483796 (Smarty_Internal_Template $_smarty_tpl) {
+$_smarty_tpl->compiled->nocache_hash = '928839937686e70dcc41528_76004644';
 ?>
 <!-- begin /var/www/html/prestashop1.7/themes/classic/modules/ps_customeraccountlinks/ps_customeraccountlinks.tpl -->
 <div id="block_myaccount_infos" class="col-md-3 links wrapper">

@@ -1,0 +1,164 @@
+
+/**/
+body.ybc-skin-red{
+    /*background: #28abe3!important;*/
+}
+
+body.ybc-skin-red *::-webkit-selection{
+    background-color: #EC4249;
+    color: #ffffff;
+}
+
+body.ybc-skin-red *::-ms-selection{
+    background-color: #EC4249;
+    color: #ffffff;
+}
+
+body.ybc-skin-red *::-moz-selection{
+    background-color: #EC4249;
+    color: #ffffff;
+}
+
+body.ybc-skin-red *::selection{
+    background-color: #EC4249;
+    color: #ffffff;
+}
+
+
+body.ybc-skin-red #blockcart-modal .product-name,
+body.ybc-skin-red .nav-item .nav-separtor.active,
+body.ybc-skin-red .dropdown:hover > a,
+body.ybc-skin-red .contact_link_item i,
+body.ybc-skin-red .checkout_total,
+body.ybc-skin-red .user-info i,
+body.ybc-skin-red .star::after,
+body.ybc-skin-red .star_on::after,
+body.ybc-skin-red .star-on::after,
+body.ybc-skin-red .ynpt6 .ynp-inner-wrapper > h4,
+body.ybc-skin-red .blockcart:hover .checkout_title,
+body.ybc-skin-red .nav .dropdown > a,
+body.ybc-skin-red .ybc-widget-display-home .item-icon i,
+body.ybc-skin-red .blockcart.cart-preview .ion-bag,
+body.ybc-skin-red #footer .ybc-newsletter-popup .alert-success p span{
+    color: #EC4249;
+}
+
+body.ybc-skin-red .custom_theme span{
+    color: #EC4249!important; 
+}
+
+
+body.ybc-skin-red .ybc-widget-item-link:hover,
+body.ybc-skin-red #blockcart-modal .modal-header,
+body.ybc-skin-red .scroll_top.show_scroll,
+body.ybc-skin-red .custom-radio input[type="radio"]:checked + span,
+body.ybc-skin-red .owl-nav > div,
+body.ybc-skin-red .transition_floating .close_menu, 
+body.ybc-skin-red .transition_full .close_menu,
+body.ybc-skin-red .mls_nav > div,
+body.ybc-skin-red .ets_mm_megamenu.scroll_heading,
+body.ybc-skin-red .menu_and_cattree,
+body.ybc-skin-red .search-widget form button[type="submit"],
+body.ybc-skin-red .product-actions .add-to-cart,
+body.ybc-skin-red .mls_pag_button.active,
+body.ybc-skin-red .plw_content,
+body.ybc-skin-red #ynp-submit.ynp-submit,
+body.ybc-skin-red .ets_purchase_type_list input:checked + .product-thumbnail::before,
+body.ybc-skin-red.ybc-layout-layouthome2 .mls_slider_running,
+body.ybc-skin-red .panel-product-w-custom .wishlist_button_extra:hover,
+body.ybc-skin-red #footer .ybc-theme-panel-inner #ybc_tc_float_header li.active{
+    border-color: #EC4249;
+    background-color: #EC4249;
+}
+body.ybc-skin-red .ybc-theme-panel-btn{
+    border-left-color: #EC4249;
+}
+
+body.ybc-skin-red #header .header-nav{
+    border-top-color: #EC4249;
+}
+
+body.ybc-skin-red .form-control:focus {
+  outline-color: #28abe3;
+}
+
+body.ybc-skin-red .ynpt6 .ynp-email-input{
+    border-bottom-color: #EC4249;
+}
+
+body.ybc-skin-red .mm_has_sub:hover > a:after,
+body.ybc-skin-red .pagination a:hover,
+body.ybc-skin-red .block-social li a:hover,
+body.ybc-skin-red .social-sharing li a:hover,
+body.ybc-skin-red .product-flags li.product-discount::before,
+body.ybc-skin-red .ets-product-specific .discount-percentage::before,
+body.ybc-skin-red .product_thumb_horizontal .js-qv-product-images img.selected,
+body.ybc-skin-red .block_newsletter form input[type="text"]:focus{
+    border-color: #28abe3;
+}
+body.ybc-skin-red .cart-preview .cart-products-count{
+    background-color: #28abe3
+}
+body.ybc-skin-red .owl-nav > div:hover,
+body.ybc-skin-red .mls_nav > div:hover,
+body.ybc-skin-red .search-widget form button[type="submit"]:hover,
+body.ybc-skin-red .cart-wishlist-checkout:hover,
+body.ybc-skin-red .btn-primary:hover,
+body.ybc-skin-red #new_comment_form button:hover,
+body.ybc-skin-red .pagination .current a,
+body.ybc-skin-red .products-sort-order .select-list:hover,
+body.ybc-skin-red .btn-secondary:hover, 
+body.ybc-skin-red .btn-tertiary:hover,
+body.ybc-skin-red .quick-view:hover,
+body.ybc-skin-red .discount-percentage,
+body.ybc-skin-red .product-discount,
+body.ybc-skin-red .slick-prev:hover,
+body.ybc-skin-red .wishlist .addToWishlist:hover, 
+body.ybc-skin-red .wishlist .wishlist_button_list:hover,
+body.ybc-skin-red .block-categories-custom h3.block-categories-title,
+body.ybc-skin-red .slick-next:hover,
+body.ybc-skin-red .wishlist .addToWishlist:hover,
+body.ybc-skin-red a#wishlist_button:hover{
+    background-color: #28abe3;
+    border-color: #28abe3;
+}
+body.ybc-skin-red .main-color,
+body.ybc-skin-red a:not(.btn):hover,
+body.ybc-skin-red .block-social li:hover a:before,
+body.ybc-skin-red #header .ybc-widget-ybc-custom-4 li a:hover,
+body.ybc-skin-red .ybc_coppyright a,
+body.ybc-skin-red a:hover,
+body.ybc-skin-red .block-categories .collapse-icons .add:hover, 
+body.ybc-skin-red .block-categories .collapse-icons .remove:hover,
+body.ybc-skin-red .dropdown:hover .expand-more,
+body.ybc-skin-red .nav .dropdown:hover > a,
+body.ybc-skin-red .ybc-widget-ybc-custom-1  .ybc-widget-title a:hover,
+body.ybc-skin-red .product-price-and-shipping,
+body.ybc-skin-red .product-prices div,
+body.ybc-skin-red .block_newsletter form .newsletter_submit:hover,
+body.ybc-skin-red .category-top-menu-pos > .view > span,
+body.ybc-skin-red .product-price,
+body.ybc-skin-red .nav-item .nav-link.active, 
+body.ybc-skin-red .cart-total .value,
+body.ybc-skin-red .user-info a:hover i,
+body.ybc-skin-red .ybc-widget-display-home-content .ybc-widget-item-content:hover .item-icon i,
+body.ybc-skin-red.page-my-account #content .links a:hover i,
+body.ybc-skin-red .contact_link_item a:hover i,
+body.ybc-skin-red .social-sharing li a:hover:before{
+    color: #28abe3;
+}
+
+
+
+
+
+
+@media (max-width: 767px){
+    body.ybc-skin-red .header-top{
+        background-color: #EC4249
+    }
+}
+
+
+
+

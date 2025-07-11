@@ -1,4 +1,5 @@
-/var/logs/dev.log
+cache/
+var/logs/dev.log
 /var/logs/
 /var/cache/
 /config/settings.inc.php

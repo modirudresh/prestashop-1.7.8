@@ -2,3 +2,4 @@ var/logs/dev.log
 var/logs/dev.log
 /var/logs/
 /var/logs/
+/var/cache/
